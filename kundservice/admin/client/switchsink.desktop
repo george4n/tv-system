@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=False
+Name[en_US]=Switch Sink
+Exec=/mnt/users/foretag/.admin/server/./switchsink.sh
+Comment[en_US]=Switch Sink
+Name=Fix Pulse
+Comment=Fix Pulse
+Icon=/usr/share/icons/Humanity/devices/48/yast_soundcard.svg
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=False
+Name[en_US]=Control Center
+Exec=/mnt/.system/foretag/admin/server/./cc.sh
+Comment[en_US]=Control Center
+Name=Control Center
+Comment=Control Center
+Icon=/usr/share/icons/Humanity/apps/48/checkbox.svg

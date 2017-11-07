@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Remote
+Exec=/mnt/.system/foretag/admin/server/./remote.sh
+Comment=Remote Desktop
+Categories=Internet;
+Terminal=false
+StartupNotify=true
+StartupWMClass=rdesktop
+GenericName=
+Comment[en_US]=Remote
+Icon=/usr/share/icons/Humanity/apps/48/tsclient.svg

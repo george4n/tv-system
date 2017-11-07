@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=False
+Name[en_US]=Assistance
+Exec=/mnt/.system/telesales/admin/server/./assist.sh
+Comment[en_US]=Assistance
+Name=Assistance
+Comment=Assistance
+Icon=/usr/share/icons/Humanity/apps/48/utilities-system-monitor.svg

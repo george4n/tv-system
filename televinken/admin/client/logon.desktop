@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=False
+Name[en_US]=Logon Script
+Exec=/mnt/.system/televinken/admin/server/logon.sh
+Comment[en_US]=Force Logout
+Name=Logout
+X-GNOME-Autostart-enabled=true
+Comment=Logon Script

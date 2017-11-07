@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=False
+Name[en_US]=Logout
+#Exec=gnome-terminal --full-screen -e "/home/users/telesales/.admin/server/./logout.sh"
+Exec=/mnt/.system/kundservice/admin/server/./logout.sh
+Comment[en_US]=Force Logout
+Name=Logout
+Comment=Force Logout
+Icon=/usr/share/icons/Humanity/actions/48/gnome-logout.svg
